@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm a passionate and adaptable fourth-year computer science student. Currently, I'm studying Full-stack Web development with Node.js, but I’m always eager to explore new languages, frameworks, and tech fields.<br><br>I’m not tied to any specific tech stack; I’m constantly looking for opportunities to broaden my knowledge. Whether it's data analysis, UI/UX design, artificial intelligence, devops, or security, I'm excited to learn and apply new concepts to real-world problems.<br><br>I thrive in environments where change is constant and look forward to tackling challenges in a variety of domains.
+Hello! I'm a fourth-year computer science student. Currently, I'm studying Full-stack Web development with Node.js, but I’m always eager to explore new languages, frameworks, and tech fields.<br><br>I’m not tied to any specific tech stack; I’m constantly looking for opportunities to broaden my knowledge. Whether it's data analysis, UI/UX design, artificial intelligence, devops, or security, I'm excited to learn and apply new concepts to real-world problems.
 
 
 ## 🌐 Socials:
