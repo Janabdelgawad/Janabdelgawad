@@ -1,6 +1,5 @@
 # About Me:
-Hello! I'm a fourth-year computer science student. Currently, I'm studying Full-stack Web development with Node.js, but I’m always eager to explore new languages, frameworks, and tech fields.<br><br>I’m not tied to any specific tech stack; I’m constantly looking for opportunities to broaden my knowledge. Whether it's data analysis, UI/UX design, artificial intelligence, devops, or security, I'm excited to learn and apply new concepts to real-world problems.
-
+Hello! I'm a fourth-year computer science student. Currently, I'm studying Full-stack Web development with Node.js, but I’m always eager to explore new languages, frameworks, and tech fields.<br>
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/janamohamed141) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:janabdelgawad@gmail.com) 
